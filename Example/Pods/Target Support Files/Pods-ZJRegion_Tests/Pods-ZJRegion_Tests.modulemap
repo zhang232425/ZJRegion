@@ -1,0 +1,6 @@
+framework module Pods_ZJRegion_Tests {
+  umbrella header "Pods-ZJRegion_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

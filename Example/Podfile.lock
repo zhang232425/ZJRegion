@@ -1,0 +1,16 @@
+PODS:
+  - ZJRegion (0.1.0)
+
+DEPENDENCIES:
+  - ZJRegion (from `../`)
+
+EXTERNAL SOURCES:
+  ZJRegion:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJRegion: cb4e24b11e099232889b7816e242c5e55cb64e53
+
+PODFILE CHECKSUM: d17756bda9f18c6fa62ef26f41a23cfcb2849d33
+
+COCOAPODS: 1.11.2
